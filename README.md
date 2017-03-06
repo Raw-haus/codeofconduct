@@ -1,4 +1,4 @@
-# codeofconduct
+# Raw Haus Code Of Conduct
 This is the Code of Conduct for all Raw Haus events and content.
 Raw Haus Code of Conduct
 The following anti-harassment policy covers all Raw Haus events and activities and applies to all members, presenters, and other participants.
