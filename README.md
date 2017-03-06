@@ -9,7 +9,7 @@ Raw Haus does not tolerate harassment in any form. We welcome everyone regardles
 
 Harassment includes but is not limited to: offensive verbal or written comments related to, or exclusion based on, any of the characteristics listed above (i.e. sex, race, gender, etc.); deliberate intimidation; following or stalking; unwanted photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; and patronizing language or action.
 
-Further, sexual language and imagery is not appropriate at any tech@nyu event or activity, including talks.
+Further, sexual language and imagery is not appropriate at any Raw Haus event or activity, including talks.
 
 Anyone in violation of this policy may be warned, expelled from the event, and/or banned from future Raw Haus activities, at the sole discretion of the Raw Haus leadership and the event organizers.
 
@@ -18,12 +18,14 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Raw Haus leadership and/or event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 We value your participation and hope that by widely communicating these expectations we can all enjoy a welcoming environment.
+
 Email Template for Anti-Harassment Reporting
 If you have any issue, please report in person, call the number above, or use this email template.
 
 SUBJECT: Safe Space Alert at [EVENT NAME]
 
-I am writing because of harassment at a tech@nyu event, (NAME, PLACE, DATE OF EVENT).
+I am writing because of harassment at a Raw Haus event, (NAME, PLACE, DATE OF EVENT).
 You can reach me at (CONTACT INFO). Thank you.
+
 Contributors to this Policy
 This anti-harassment policy is based on Code for America’s Anti-Harassment policy and the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. Those policies were in turn based on several others, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work. The policy shown above was edited into its present form by Ethan Resnick.
